@@ -1,6 +1,8 @@
 
 # MyProject
 
+[![Build Status](https://api.travis-ci.org/adaltas/node-csv-parse.svg)](https://travis-ci.org/#!/adaltas/node-csv-parse)
+
 Generate datasets with random data.
 
 Main functionnalites:
